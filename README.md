@@ -1,4 +1,3 @@
-Weather App
 This Weather App built with Django allows users to check the current weather for any city worldwide. The app fetches real-time weather data using the OpenWeatherMap API and displays key information like temperature, weather description, and an icon representing the weather conditions. Users can search for weather updates by simply entering the name of the city.
 
 Features:
